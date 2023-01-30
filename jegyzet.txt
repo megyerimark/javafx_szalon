@@ -1,0 +1,9 @@
+Dev ágon kell fejleszteni:
+
+*****Kezdés*****
+
+git init stb commits
+---dev ág ---
+
+git branch dev 
+git checjout dev //átválottunk a dev ágra

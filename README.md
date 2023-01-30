@@ -1,0 +1,3 @@
+# Szalon
+
+Eladó járműk listázása
