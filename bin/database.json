@@ -1,0 +1,20 @@
+{
+    "vehicles":
+    [
+        {
+            "placenumber":"AA-XA-351",
+            "brand":"BMW",
+            "price":468797
+        },
+        {
+            "placenumber":"CB-AA-111",
+            "brand":"Ford",
+            "price":87415
+        },
+        {
+            "placenumber":"AA-LK-570",
+            "brand":"Mercedes",
+            "price":4680797
+        }
+    ]
+}
