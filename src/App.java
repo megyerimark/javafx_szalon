@@ -1,5 +1,7 @@
+import controllers.MainController;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("CSá, World!");
+        new MainController();
     }
 }
